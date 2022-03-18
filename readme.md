@@ -42,16 +42,19 @@ go run main.go get -difficulty=hard time=120
 ## Screenshots
 
 * "medium" flag
+
 ![Example screenshot1](./screenshots/difficulty.gif)
 
 ---
 
 * "time" flag
+
 ![Example screenshot1](./screenshots/time.gif)
 
 ---
 
 * "both" flags
+
 ![Example screenshot1](./screenshots/difficulty-and-time.gif)
 
 ---
